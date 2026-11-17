@@ -1,6 +1,6 @@
 # superperm-words
 
-My shortest superpermutations, from my own searches. Where I have several words at my best length that are distinct from every published word (up to relabelling and reversal), all of them are here. Every word passed an exact checker before it went in.
+My shortest superpermutations, from my own searches. Where I have several words at my best length that are distinct from every published word, all of them are here.
 
 Status as of 2026-11-17.
 
