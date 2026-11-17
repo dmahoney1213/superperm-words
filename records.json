@@ -2,56 +2,103 @@
   "as_of": "2026-11-17",
   "words": [
     {
-      "n": 9, "length": 408717, "file": "n9/408717-a.txt.xz", "format": "word", "alphabet": "123456789",
-      "sha256": "9d0d194799401a739761bae74bf985e0324a474264e003776f4edf962d9e2196",
-      "status": "ties the current record", "record": "https://superpermutations.com/w/W-0103",
+      "n": 9,
+      "length": 408717,
+      "file": "n9/408717-a.detour",
+      "format": "detour",
+      "alphabet": "012345678",
+      "sha256": "014fc92e651e10c6d4775abd3bbfc889fde9f6cd171a8bfd2b23ba2037df3337",
+      "status": "ties the current record",
+      "record": "https://superpermutations.com/w/W-0103",
       "method": "an order-9 invariant 8-symbol selection with four square flips (flip seed 184), completed by Halfar's geng.py, cut and joined by his trailsearch and segins_ils",
       "checked": "exact: every one of the 362,880 permutations found",
       "found": "2026-11-17"
     },
     {
-      "n": 9, "length": 408717, "file": "n9/408717-b.txt.xz", "format": "word", "alphabet": "123456789",
-      "sha256": "04ec6669c3538f3e45fc5cf0d699490920cd5c69c2fde33d9981a91eb556a198",
-      "status": "ties the current record", "record": "https://superpermutations.com/w/W-0103",
+      "n": 9,
+      "length": 408717,
+      "file": "n9/408717-b.detour",
+      "format": "detour",
+      "alphabet": "012345678",
+      "sha256": "1229e70e848f9882009988508bd5965b9f71f9a55917f86ed7ffde9d8f880dc1",
+      "status": "ties the current record",
+      "record": "https://superpermutations.com/w/W-0103",
       "method": "as above, from another start selection (flip seed 223)",
       "checked": "exact: every one of the 362,880 permutations found",
       "found": "2026-11-17"
     },
     {
-      "n": 12, "length": 522736437, "file": "n12/522736437.detour", "format": "detour", "alphabet": "0123456789AB",
+      "n": 12,
+      "length": 522736437,
+      "file": "n12/522736437.detour",
+      "format": "detour",
+      "alphabet": "0123456789AB",
       "sha256": "f04a58762025fda6c043cdcf20508f4e9dd6c089c2aec059c02d238fa8eb8a84",
-      "status": "current record", "record": "https://superpermutations.com/w/W-0102",
+      "status": "current record",
+      "record": "https://superpermutations.com/w/W-0102",
       "method": "segins_ils kicks (seed 6, kmax 2, 4 cuts) from Halfar's 522,736,440 plan on selection E",
       "checked": "exact, and no single letter can be deleted",
-      "found": "2026-11-11", "posted": {"venue": "Superpermutation Almanac", "id": "W-0102", "at": "2026-11-11"}
+      "found": "2026-11-11",
+      "posted": {
+        "venue": "Superpermutation Almanac",
+        "id": "W-0102",
+        "at": "2026-11-11"
+      }
     },
     {
-      "n": 13, "length": 6747801734, "file": "n13/6747801734.plan.xz", "format": "trailsearch plan",
+      "n": 13,
+      "length": 6747801734,
+      "file": "n13/6747801734.detour",
+      "format": "detour",
       "plan_sha256": "da5d8043acd6335e6ad4b7727e9ff6a1b3c5485129ce2f74f21841580af56ee4",
-      "word_alphabet": "0123456789ABC",
-      "word_sha256": "2c879c28feef1ee8d0b860244f74725d940c194c24ff2697b1427b37830e61e9",
       "status": "previous record",
       "method": "segins_gpu --or3-eq (seed 11) on a GTX 1080, from my 6,747,801,738 plan",
-      "rebuild": "Halfar's trailsearch BASE OUT --plan-in PLAN --time 0, on his n=13 base word",
       "checked": "exact, and no single letter can be deleted",
-      "found": "2026-11-05"
+      "found": "2026-11-05",
+      "alphabet": "0123456789ABC",
+      "sha256": "2c879c28feef1ee8d0b860244f74725d940c194c24ff2697b1427b37830e61e9"
     },
     {
-      "n": 14, "length": 93904804289, "file": "n14/93904804289.uplan.xz", "format": "N14-UNITPLAN",
+      "n": 14,
+      "length": 93904804289,
+      "file": "n14/93904804289.detour",
+      "format": "detour",
       "plan_sha256": "d33ed73a34fa50857d54b50d71650928d4d4d561c0708eba7891a93e55e59508",
-      "word_alphabet": "0123456789ABCD",
-      "word_sha256": "fc274579e3dbe6960b91b29eb15e9d55def391a189424ce917a231aaefaef354",
       "status": "previous record",
       "method": "Halfar's uopt15 with a move budget, then a merge of 19 independent moves from 17 seeds",
-      "rebuild": "Halfar's gen14 plan SELECTION (recipes/n14)",
       "checked": "exact: every one of the 87,178,291,200 permutations found",
-      "found": "2026-11-01", "posted": {"venue": "superpermutators Discord", "at": "2026-11-01"}
+      "found": "2026-11-01",
+      "posted": {
+        "venue": "superpermutators Discord",
+        "at": "2026-11-01"
+      },
+      "alphabet": "0123456789ABCD",
+      "sha256": "fc274579e3dbe6960b91b29eb15e9d55def391a189424ce917a231aaefaef354"
     },
     {
-      "n": 16, "length": 22320795905601, "file": "n16/22320795905601.uplan.xz", "format": "N16-UNITPLAN",
+      "n": 15,
+      "length": 1401325411389,
+      "file": "n15/1401325411389.uplan.xz",
+      "format": "N15-UNITPLAN",
+      "plan_sha256": "11fc6ad86fbeddef3d52a5bc37711f2f0b4474da8e3d770a3a9eec51eae9ca30",
+      "word_alphabet": "0123456789ABCDE",
+      "word_sha256": "04bd28b7af468ce9a46269c6b8160cc77484277900730df6a3f1684af6b958ae",
+      "status": "tentative record",
+      "shortest_published": 1401325411491,
+      "method": "Halfar's uopt15 with a move budget, from his 1,401,325,411,491 plan (recipes/n15)",
+      "rebuild": "Halfar's gen16 plan 3 SELECTION PLAN",
+      "checked": "exact twice: an (n-2)!-group streaming checker over the whole word, and Halfar's own core check on a GPU",
+      "found": "2026-11-10"
+    },
+    {
+      "n": 16,
+      "length": 22320795905601,
+      "file": "n16/22320795905601.uplan.xz",
+      "format": "N16-UNITPLAN",
       "plan_sha256": "5519f9f9b9754a97d4f7330f50c8153cd833bb72d18c4869180d238f832cd9b0",
       "word_sha256": "b2e40863aebb91fbfb30c6df57ff6103b81e1c1660ad98abdb2e8ec0c352fc6e",
-      "status": "tentative record", "shortest_published": 22320795912621,
+      "status": "tentative record",
+      "shortest_published": 22320795912621,
       "method": "Halfar's block lift (blockord, liftB, genBp) re-run from an n=15 plan, openings by DP",
       "rebuild": "Halfar's genBt plan 4 SELECTION PLAN",
       "checked": "exact twice: an (n-2)!-group streaming checker over the whole word, and Halfar's own core check on a GPU",
@@ -59,7 +106,8 @@
     }
   ],
   "notes": {
-    "plan_sha256": "SHA-256 of the plan's lines with blank and # comment lines removed, as Halfar compares plans",
-    "sha256": "SHA-256 of the word in its alphabet, no trailing newline (word_sha256: the word a plan rebuilds to)"
+    "sha256": "SHA-256 of the word in its alphabet, no trailing newline",
+    "plan_sha256": "SHA-256 of a plan's lines with blank and # comment lines removed, as Halfar compares plans",
+    "word_sha256": "SHA-256 of the word a plan rebuilds to, in word_alphabet, no trailing newline"
   }
 }
