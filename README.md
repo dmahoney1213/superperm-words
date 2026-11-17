@@ -6,7 +6,7 @@ Status as of 2026-11-17.
 
 | n | my best | status | files |
 |---|---|---|---|
-| 9 | 408,717 | ties the current record ([Almanac W-0103](https://superpermutations.com/w/W-0103)) | `n9/408717-a.detour`, `n9/408717-b.detour` |
+| 9 | 408,717 | ties the current record ([Almanac W-0103](https://superpermutations.com/w/W-0103)) | `n9/408717-a.detour` to `n9/408717-g.detour` (7 words) |
 | 12 | 522,736,437 | current record ([Almanac W-0102](https://superpermutations.com/w/W-0102)) | `n12/522736437.detour` |
 | 13 | 6,747,801,734 | previous record | `n13/6747801734.detour` |
 | 14 | 93,904,804,289 | previous record | `n14/93904804289.detour` |
