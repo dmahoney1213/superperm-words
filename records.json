@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-17",
+  "as_of": "2026-11-18",
   "words": [
     {
       "n": 9,
@@ -99,7 +99,7 @@
       "format": "detour",
       "alphabet": "0123456789AB",
       "sha256": "f04a58762025fda6c043cdcf20508f4e9dd6c089c2aec059c02d238fa8eb8a84",
-      "status": "current record",
+      "status": "previous record",
       "record": "https://superpermutations.com/w/W-0102",
       "method": "segins_ils kicks (seed 6, kmax 2, 4 cuts) from Halfar's 522,736,440 plan on selection E",
       "checked": "exact, and no single letter can be deleted",

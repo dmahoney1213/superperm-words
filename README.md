@@ -2,12 +2,12 @@
 
 My shortest superpermutations, from my own searches. Where I have several words at my best length that are distinct from every published word, all of them are here.
 
-Status as of 2026-11-17.
+Status as of 2026-11-18.
 
 | n | my best | status | files |
 |---|---|---|---|
 | 9 | 408,717 | ties the current record ([Almanac W-0103](https://superpermutations.com/w/W-0103)) | `n9/408717-a.detour` to `n9/408717-g.detour` (7 words) |
-| 12 | 522,736,437 | current record ([Almanac W-0102](https://superpermutations.com/w/W-0102)) | `n12/522736437.detour` |
+| 12 | 522,736,437 | previous record ([Almanac W-0102](https://superpermutations.com/w/W-0102); beaten by W-0113, 522,736,428, Nov 18) | `n12/522736437.detour` |
 | 13 | 6,747,801,734 | previous record | `n13/6747801734.detour` |
 | 14 | 93,904,804,289 | previous record | `n14/93904804289.detour` |
 | 15 | 1,401,325,411,389 | tentative record | `n15/1401325411389.uplan.xz` |
